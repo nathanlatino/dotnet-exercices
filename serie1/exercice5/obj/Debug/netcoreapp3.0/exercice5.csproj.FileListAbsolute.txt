@@ -1,0 +1,10 @@
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\obj\Debug\netcoreapp3.0\exercice5.AssemblyInfoInputs.cache
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\obj\Debug\netcoreapp3.0\exercice5.AssemblyInfo.cs
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\bin\Debug\netcoreapp3.0\exercice5.exe
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\bin\Debug\netcoreapp3.0\exercice5.deps.json
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\bin\Debug\netcoreapp3.0\exercice5.runtimeconfig.json
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\bin\Debug\netcoreapp3.0\exercice5.runtimeconfig.dev.json
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\bin\Debug\netcoreapp3.0\exercice5.dll
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\bin\Debug\netcoreapp3.0\exercice5.pdb
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\obj\Debug\netcoreapp3.0\exercice5.dll
+C:\Users\nath\Documents\3annee\dotnet\Exercices\serie1\source\serie1\exercice5\obj\Debug\netcoreapp3.0\exercice5.pdb
